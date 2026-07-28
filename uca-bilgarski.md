@@ -11,17 +11,17 @@ Bu dosya, Bulgarca öğrenme yolculuğumdaki notlarımı ve öğrendiklerimi iç
   - [2.1. Şahıs Zamirleri (Лични местоимения)](#21-şahıs-zamirleri-лични-местоимения)
   - [2.2. Temel Fiiller](#22-temel-fiiller)
 - [Bölüm 3: Kelime Dağarcığı](#bölüm-3-kelime-dağarcığı)
-  - [3.1. Günler (Дни)](#31-günler-дни)
-  - [3.2. Aylar (Месеци)](#32-aylar-месеци)
-  - [3.3. Mevsimler (Сезони)](#33-mevsimler-сезони)
-  - [3.4. Zaman Kavramları (Времеви понятия)](#34-zaman-kavramları-времеви-понятия)
-  - [3.5. Renkler (Цветове)](#35-renkler-цветове)
-  - [3.6. Hayvanlar (Животни)](#36-hayvanlar-животни)
-  - [3.7. Eşyalar (Предмети)](#37-eşyalar-предмети)
-  - [3.8. Binalar (Сгради)](#38-binalar-сгради)
-  - [3.9. Taşıtlar (Превозни средства)](#39-taşıtlar-превозни-средства)
-  - [3.2. Aile (Семейство)](#32-aile-семейство)
-  - [3.3. Yiyecekler (Храни)](#33-yiyecekler-храни)
+  - [3.1. Günler (Дни - dni)](#31-günler-дни)
+  - [3.2. Aylar (Месеци - mesetsi)](#32-aylar-месеци)
+  - [3.3. Mevsimler (Сезони - sezoni)](#33-mevsimler-сезони)
+  - [3.4. Zaman Kavramları (Времеви понятия - vremevi ponyatiya)](#34-zaman-kavramları-времеви-понятия)
+  - [3.5. Renkler (Цветове - tsvetove)](#35-renkler-цветове)
+  - [3.6. Hayvanlar (Животни - jivotni)](#36-hayvanlar-животни)
+  - [3.7. Eşyalar (Предмети - predmeti)](#37-eşyalar-предмети)
+  - [3.8. Binalar (Сгради - sgradi)](#38-binalar-сгради)
+  - [3.9. Taşıtlar (Превозни средства - prevozni sredstva)](#39-taşıtlar-превозни-средства)
+  - [3.2. Aile (Семейство - semeystvo)](#32-aile-семейство)
+  - [3.3. Yiyecekler (Храни - hrani)](#33-yiyecekler-храни)
 - [Bölüm 4: Sayılar ve Sayma Sayıları (Числа и Броене)](#bölüm-4-sayılar-ve-sayma-sayıları-числа-и-броене)
   - [4.1. Temel Sayılar (Основни числа)](#41-temel-sayılar-основни-числа)
     - [4.1.1. 11'den 19'a Kadar Sayılar](#411-11den-19a-kadar-sayılar)
@@ -133,13 +133,13 @@ Bulgarca, Kiril alfabesini kullanır. İşte harfler, okunuşları ve Türkçe'd
 
 ---
 
-## Bölüm 3: Kelime Dağarcığı (Речник)
+## Bölüm 3: Kelime Dağarcığı (Речник - reçnik)
 
 Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 
 *Not: Sayılar için lütfen Bölüm 4'e bakınız.*
 
-### 3.1. Günler (Дни)
+### 3.1. Günler (Дни - dni)
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -151,7 +151,7 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **събота**     | sıbota             | Cumartesi    | **Събота** е ден за почивка. (Sıbota e den za poçivka.) - Cumartesi dinlenme günüdür. |
 | **неделя**     | nedelya            | Pazar        | **В неделя** отиваме на пикник. (V nedelya otivame na piknik.) - Pazar günü pikniğe gidiyoruz. |
 
-### 3.2. Aylar (Месеци)
+### 3.2. Aylar (Месеци - mesetsi)
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -168,7 +168,7 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **ноември**    | noemvri            | Kasım        | **Ноември** е студен месец. (Noemvri e studen mesets.) - Kasım soğuk bir aydır. |
 | **декември**   | dekemvri           | Aralık       | **Декември** е месецът на Коледа. (Dekemvri e mesetsıt na Koleda.) - Aralık Noel ayıdır. |
 
-### 3.3. Mevsimler (Сезони)
+### 3.3. Mevsimler (Сезони - sezoni)
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -177,7 +177,7 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **есен**       | esen               | Sonbahar     | **Есента** е време за реколта. (Esenta e vreme za rekolta.) - Sonbahar hasat zamanıdır. |
 | **зима**       | zima               | Kış          | **През зимата** вали сняг. (Prez zimata vali snyag.) - Kışın kar yağar. |
 
-### 3.4. Zaman Kavramları (Времеви понятия)
+### 3.4. Zaman Kavramları (Времеви понятия - vremevi ponyatiya)
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -191,9 +191,9 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **вечер**      | veçer              | Akşam        | **Вечер** гледам телевизия. (Veçer gledam televiziya.) - Akşam televizyon izlerim. |
 | **нощ**        | noşt               | Gece         | **През нощта** спя. (Prez noştta spya.) - Gece uyurum. |
 
-### 3.5. Renkler (Цветове)
+### 3.5. Renkler (Цветове - tsvetove)
 
-| Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
+| Bulgarca (Български, Bılgarski) | Okunuşu (Yaklaşık) | Türkçe (Турски, Turski) | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
 | **червен**     | çerven             | Kırmızı      | **Червена** кола (Çervena kola) - Kırmızı araba |
 | **син**        | sin                | Mavi         | **Синьо** небе (Sinyo nebe) - Mavi gökyüzü |
@@ -207,7 +207,7 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **розов**      | rozov              | Pembe        | **Розово** цвете (Rozovo tsvete) - Pembe çiçek |
 | **лилав**      | lilav              | Mor          | **Лилаво** цвете (Lilavo tsvete) - Mor çiçek |
 
-### 3.6. Hayvanlar (Животни)
+### 3.6. Hayvanlar (Животни - jivotni)
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -222,7 +222,7 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **мишка**      | mişka              | Fare         | **Мишката** е малка. (Mişkata e malka.) - Fare küçüktür. |
 | **лъв**        | lıv                | Aslan        | **Лъвът** е цар на животните. (Lıvıt e tsar na jivotnite.) - Aslan hayvanların kralıdır. |
 
-### 3.7. Eşyalar (Предмети)
+### 3.7. Eşyalar (Предмети - predmeti)
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -237,7 +237,7 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **врата**      | vrata              | Kapı         | Отвори **вратата**. (Otvorı vratata.) - Kapıyı aç. |
 | **прозорец**   | prozorêts          | Pencere      | Затвори **прозореца**. (Zatvorı prozoretsa.) - Pencereyi kapat. |
 
-### 3.8. Binalar (Сгради)
+### 3.8. Binalar (Сгради - sgradi)
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -252,7 +252,7 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **полиция**    | politsiya          | Polis (karakol) | Обадих се на **полицията**. (Obadih se na politsiyata.) - Polisi aradım. |
 | **пожарна**    | pojarna            | İtfaiye      | **Пожарната** пристигна бързо. (Pojarnata pristigna bırzo.) - İtfaiye hızlıca geldi. |
 
-### 3.9. Taşıtlar (Превозни средства)
+### 3.9. Taşıtlar (Превозни средства - prevozni sredstva)
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -264,7 +264,7 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **велосипед**  | velosiped          | Bisiklet     | Карам **велосипед**. (Karam velosiped.) - Bisiklet sürüyorum. |
 | **мотор**      | motor              | Motosiklet   | Той има бърз **мотор**. (Toy ima bırz motor.) - Onun hızlı bir motosikleti var. |
 
-### 3.10. Yönler, Yerler ve Coğrafya (Посоки, Места и География)
+### 3.10. Yönler, Yerler ve Coğrafya (Посоки, Места и География - posoki, mesta i geografiya)
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -283,7 +283,7 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **континент**  | kontinent          | Kıta         | Европа е **континент**. (Evropa e kontinent.) - Avrupa bir kıtadır. |
 | **адрес**      | adres              | Adres        | Какъв е твоят **адрес**? (Kakıv e tvoyat adres?) - Adresin nedir? |
 
-### 3.11. Aile (Семейство)
+### 3.11. Aile (Семейство - semeystvo)
 
 - **майка** (mayka) - anne
 - **баща** (başta) - baba
@@ -292,7 +292,7 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 - **син** (sin) - oğul
 - **дъщеря** (dışterya) - kız evlat
 
-### 3.12. Yiyecekler (Храни)
+### 3.12. Yiyecekler (Храни - hrani)
 
 - **хляб** (hlyab) - ekmek
 - **вода** (voda) - su
