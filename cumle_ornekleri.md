@@ -37,6 +37,7 @@ Her cümle: **Bulgarca** — okunuşu — Türkçesi
 28. [Seyahat & Ulaşım Araçları](#28-seyahat--ulasim-araclari)
 29. [Alışveriş & Pazarlık](#29-alisveris--pazarlik)
 30. [Dini & Kültürel Terimler](#30-dini--kulturel-terimler)
+31. [Trafik & Sürüş](#31-trafik--surus)
 
 ---
 
@@ -3458,6 +3459,198 @@ Bog da te blagoslovi!
 **Дай Боже мир на света!** — Tanrı dünyaya barış versin!
 Day Bozhe mir na sveta!
 
+<a id="31-trafik--surus"></a>
+## 31. Trafik & Sürüş (Трафик и шофиране - Trafik i shofirane)
+
+**Аз карам кола всеки ден.** — Her gün araba kullanıyorum.
+Az karam kola vseki den.
+
+**Аз имам шофьорска книжка.** — Ehliyetim var.
+Az imam shofyorska knijka.
+
+**Аз току-що взех шофьорски изпит.** — Yeni ehliyet sınavı aldım.
+Az toku-shto vzeh shofyorski izpit.
+
+**Аз карам внимателно.** — Dikkatli kullanıyorum.
+Az karam vnimatelno.
+
+**Аз карам бързо.** — Hızlı kullanıyorum.
+Az karam bırzo.
+
+**Аз карам бавно в града.** — Şehirde yavaş kullanıyorum.
+Az karam bavno v grada.
+
+**Аз включвам мигача.** — Sinyali açıyorum.
+Az vklyuchvam migacha.
+
+**Аз спирам на червено.** — Kırmızıda duruyorum.
+Az spi ram na cherveno.
+
+**Аз тръгвам на зелено.** — Yeşilde kalkıyorum.
+Az trıgvam na zeleno.
+
+**Аз завивам наляво.** — Sola dönüyorum.
+Az zavivam nalyavo.
+
+**Аз завивам надясно.** — Sağa dönüyorum.
+Az zavivam nadyasno.
+
+**Аз карам направо.** — Dümdüz gidiyorum.
+Az karam napravo.
+
+**Аз паркирам колата на паркинга.** — Arabayı park yerine park ediyorum.
+Az parkiram kolata na parkinga.
+
+**Аз търся място за паркиране.** — Park yeri arıyorum.
+Az tırsya myasto za parkirane.
+
+**Паркингът е безплатен.** — Park yeri ücretsiz.
+Parkingıt e bezplaten.
+
+**Паркингът е платен.** — Park yeri ücretli.
+Parkingıt e platen.
+
+**Аз плащам за паркинг с монети.** — Park için bozuk para ödüyorum.
+Az plashtam za parking s moneti.
+
+**Аз зареждам колата с бензин.** — Arabaya benzin alıyorum.
+Az zarezhdam kolata s benzin.
+
+**Бензиностанцията е на ъгъла.** — Benzin istasyonu köşede.
+Benzinostantsiyata e na ıgıla.
+
+**Аз проверявам гумите.** — Lastikleri kontrol ediyorum.
+Az proveryavam gumite.
+
+**Гумите са износени.** — Lastikler aşınmış.
+Gumite sa iznoseni.
+
+**Аз сменям маслото на колата.** — Arabanın yağını değiştiriyorum.
+Az smenyam masloto na kolata.
+
+**Колата ми се развали.** — Arabam bozuldu.
+Kolata mi se razvali.
+
+**Колата не запалва.** — Araba çalışmıyor.
+Kolata ne zapalva.
+
+**Двигателят прегрява.** — Motor aşırı ısınıyor.
+Dvigatelyat pregyarva.
+
+**Аз викам пътна помощ.** — Yol yardım çağırıyorum.
+Az vikam pıtna pomosht.
+
+**Аз катастрофирах.** — Kaza yaptım.
+Az katastrofirah.
+
+**Имаше тежка катастрофа на магистралата.** — Otoyolda ağır bir kaza oldu.
+Imashe tezhka katastrofa na magistralata.
+
+**Полицията дойде на мястото на катастрофата.** — Polis kaza yerine geldi.
+Politsiyata doyde na myastoto na katastrofata.
+
+**Никой не е пострадал при катастрофата.** — Kazada kimse yaralanmadı.
+Nikoy ne e postradal pri katastrofata.
+
+**Аз получих глоба за превишена скорост.** — Hız cezası aldım.
+Az poluchih globa za previshena skorost.
+
+**Аз получих глоба за неправилно паркиране.** — Yanlış park etme cezası aldım.
+Az poluchih globa za nepravilno parkirane.
+
+**Полицаят ми спря колата.** — Polis beni durdurdu.
+Politsayat mi sprya kolata.
+
+**Мога ли да видя шофьорската ви книжка?** — Ehliyetinizi görebilir miyim?
+Moga li da vidya shofyorskata vi knijka?
+
+**Знаете ли защо ви спрях?** — Neden durdurduğumu biliyor musunuz?
+Znaete li zashto vi spyrah?
+
+**Аз бях над ограничението на скоростта.** — Hız sınırının üstündeydim.
+Az byah nad ogranichenieto na skorostta.
+
+**Ограничението на скоростта е 50 км/ч в града.** — Şehirde hız limiti 50 km/s.
+Ogranichenieto na skorostta e 50 km/ch v grada.
+
+**Ограничението на скоростта е 90 км/ч извън града.** — Şehir dışında hız limiti 90 km/s.
+Ogranichenieto na skorostta e 90 km/ch izvın grada.
+
+**Аз платих глобата в банката.** — Cezayı bankada ödedim.
+Az platih globata v bankata.
+
+**Светофарът не работи.** — Trafik ışığı çalışmıyor.
+Svetofarıt ne raboti.
+
+**Пътят е блокиран поради ремонт.** — Yol tamir nedeniyle kapalı.
+Pıtyat e blokiran poradi remont.
+
+**Има задръстване в центъра.** — Merkezde trafik sıkışıklığı var.
+Ima zadrıstvane v tsentıra.
+
+**Внимавай на пътя!** — Yola dikkat et!
+Vnimavay na pıtya!
+
+**Карай внимателно!** — Dikkatli kullan!
+Karay vnimatelno!
+
+**Не карай пиян!** — Sarhoş kullanma!
+Ne karay пиян!
+
+**Винаги слагам колан.** — Her zaman kemer takıyorum.
+Vinagi slagam kolan.
+
+**Предпазният колан спасява живот.** — Emniyet kemeri hayat kurtarır.
+Predpazniyat kolan spasyava zhivot.
+
+**Детското столче е задължително за деца.** — Çocuk koltuğu çocuklar için zorunludur.
+Detskoto stolche e zadıjitelno za detsa.
+
+**Зимните гуми са задължителни през зимата.** — Kış lastikleri kışın zorunludur.
+Zimnite gumi sa zadıjitelni prez zimata.
+
+**Пътният знак показва ограничение на скоростта.** — Trafik işareti hız sınırını gösterir.
+Pıtniyat znak pokazva ogranichenie na skorostта.
+
+**Кръстовището е опасно.** — Kavşak tehlikeli.
+Krıstovishteto e opasno.
+
+**Пешеходната пътека е там.** — Yaya geçidi orada.
+Peshehodnata pıteka e tam.
+
+**Аз пресичам улицата на пешеходната пътека.** — Yaya geçidinden karşıya geçiyorum.
+Az presicham ulitsata na peshehodnata pıteka.
+
+**Таксиметровият шофьор кара много бързо.** — Taksi şoförü çok hızlı kullanıyor.
+Taksimetroviyat shofyor kara mnogo bırzo.
+
+**Автобусната лента е само за автобуси.** — Otobüs şeridi sadece otobüsler içindir.
+Avtobusnata lenta e samo za avtobusi.
+
+**Аз намалявам скоростта в острия завой.** — Keskin virajda hızı azaltıyorum.
+Az namalyavam skorostta v ostriya zavoy.
+
+**Фаровете светят лошо.** — Farlar kötü aydınlatıyor.
+Farovete svetyat losho.
+
+**Чистачките не работят добре.** — Silecekler iyi çalışmıyor.
+Chistachkite ne rabotyat dobre.
+
+**Огледалото е счупено.** — Ayna kırık.
+Ogledaloto e schupeno.
+
+**Аз забелязвам патрулна кола.** — Polis arabası görüyorum.
+Az zabelyazvam patrulna kola.
+
+**Мога ли да използвам телефона си, докато карам?** — Araba kullanırken telefonumu kullanabilir miyim?
+Moga li da izpolzvam teleфona si, dokato karam?
+
+**Не, това е забранено.** — Hayır, bu yasak.
+Ne, tova e zabraneno.
+
+**Ако пиеш, не карай!** — İçiyorsan, kullanma!
+Ako piesh, ne karay!
+
 ---
 
-*📌 Toplam: 30 kategoride 1000+ cümle. Her cümle Bulgarca + okunuş + Türkçe olarak verilmiştir. Başlangıç seviyesinden ileri seviyeye kadar herkes için uygundur. Успех! (Başarılar!)*
+*📌 Toplam: 31 kategoride 1050+ cümle. Her cümle Bulgarca + okunuş + Türkçe olarak verilmiştir. Başlangıç seviyesinden ileri seviyeye kadar herkes за uygundur. Успех! (Başarılar!)*
