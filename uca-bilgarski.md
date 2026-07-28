@@ -343,12 +343,42 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 <a id="bolum-3-11-aile"></a>
 ### 3.11. Aile (Семейство - semeystvo)
 
-- **майка** (mayka) - anne
-- **баща** (başta) - baba
-- **брат** (brat) - erkek kardeş
-- **сестра** (sestra) - kız kardeş
-- **син** (sin) - oğul
-- **дъщеря** (dışterya) - kız evlat
+| Türkçe          | Bulgarca             | Okunuşu (Yaklaşık) |
+|-----------------|----------------------|--------------------|
+| anne            | **майка**            | mayka              |
+| baba            | **баща**             | başta              |
+| büyükanne (nine) | **баба**            | baba               |
+| büyükbaba (dede) | **дядо**            | dyado              |
+| erkek kardeş    | **брат**             | brat               |
+| kız kardeş      | **сестра**           | sestra             |
+| ağabey          | **по-голям брат**    | po-golyam brat     |
+| abla            | **по-голяма сестра** | po-golyama sestra  |
+| küçük kardeş    | **по-малък брат/сестра** | po-malık brat/sestra |
+| oğul            | **син**              | sin                |
+| kız evlat       | **дъщеря**           | dışterya           |
+| torun (erkek)   | **внук**             | vnuk               |
+| torun (kız)     | **внучка**           | vnuchka            |
+| dede (büyükbaba) | **прадядо**         | pradyado           |
+| nine (büyükanne)| **прабаба**         | prababa            |
+| amca            | **чичо**             | chicho             |
+| dayı            | **вуйчо**            | vuycho             |
+| hala / teyze    | **леля**             | lelya              |
+| enişte          | **свако / зет**      | svako / zet        |
+| yenge           | **снаха**            | snaha              |
+| kuzen (erkek)   | **братовчед**        | bratovched         |
+| kuzen (kız)     | **братовчедка**      | bratovchedka       |
+| yeğen (erkek)   | **племенник**        | plemennik          |
+| yeğen (kız)     | **племенница**       | plemennitsa        |
+| eş / koca       | **съпруг / мъж**     | sıprug / mıj       |
+| eş / karı       | **съпруга / жена**   | sıpruga / jena     |
+| kayınvalide     | **свекърва** (kocanın annesi) / **тъща** (karının annesi) | svekırva / tıshta |
+| kayınpeder      | **свекър** (kocanın babası) / **тъст** (karının babası) | svekar / tıst |
+| gelin           | **булка / снаха**    | bulka / snaha      |
+| damat           | **младоженец / зет** | mladojenets / zet  |
+| akraba          | **роднина**          | rodnina            |
+| akrabalar       | **роднини**          | rodnini            |
+| aile            | **семейство**        | semeystvo          |
+| sülale / soy    | **род**              | rod                |
 
 <a id="bolum-3-12-yiyecekler"></a>
 ### 3.12. Yiyecekler (Храни - hrani)
