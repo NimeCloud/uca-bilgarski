@@ -160,29 +160,93 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 
 ---
 
-## 6. 🌤️ Hava / Doğa
+## 6. 🌤️ Hava & Doğa Olayları (Време и природни явления)
 
 | Türkçe | Bulgarca | Okunuş |
 |--------|----------|--------|
-| hava | **време** (nötr) | vreme |
+| hava (durumu) | **време** (nötr) | vreme |
+| hava (gaz) | **въздух** (eril) | vazduh |
+| gökyüzü | **небе** (nötr) | nebe |
 | güneş | **слънце** (nötr) | slıntse |
+| ay | **луна** (dişil) | luna |
+| yıldız | **звезда** (dişil) | zvezda |
+| bulut | **облак** (eril) | oblak |
+| rüzgar | **вятър** (eril) | vyatır |
 | yağmur | **дъжд** (eril) | dıjd |
 | kar | **сняг** (eril) | snyag |
-| rüzgar | **вятър** (eril) | vyatır |
-| bulut | **облак** (eril) | oblak |
-| deniz | **море** (nötr) | more |
+| dolu | **градушка** (dişil) | gradushka |
+| sis | **мъгла** (dişil) | mıgla |
+| çiy | **роса** (dişil) | rosa |
+| kırağı | **скреж** (eril) | skrej |
+| buz | **лед** (eril) | led |
+| şimşek | **светкавица** (dişil) | svetkavitsa |
+| gök gürültüsü | **гръмотевица** (dişil) | grımotevitsa |
+| gökkuşağı | **дъга** (dişil) | dıga |
+| fırtına | **буря** (dişil) | burya |
+| kar fırtınası | **снежна буря** (dişil) | snezhna burya |
+| yağmur fırtınası | **дъждовна буря** (dişil) | dıjdovna burya |
+| sel | **наводнение** (nötr) | navodnenie |
+| kuraklık | **суша** (dişil) | susha |
+| deprem | **земетресение** (nötr) | zemetresenie |
+| yanardağ / volkan | **вулкан** (eril) | vulkan |
+| orman yangını | **горски пожар** (eril) | gorski pozhAr |
+| sıcaklık | **температура** (dişil) | temperatura |
+| derece | **градус** (eril) | gradus |
+| sıcak (hava) | **топло** | toplo |
+| soğuk (hava) | **студено** | studeno |
+| sıcak (nesne) | **горещо** | goreşto |
+| ılık | **хладно** | hladno |
+| güneşli | **слънчево** | slınçevo |
+| bulutlu | **облачно** | oblachno |
+| yağmurlu | **дъждовно** | dıjdovno |
+| karlı | **снежно** | snezhno |
+| rüzgarlı | **ветровито** | vetrovito |
+| sisli | **мъгливо** | mıglivo |
+| açık (hava) | **ясно** | yasno |
+| kapalı (hava) | **облачно** | oblachno |
+| sert (hava) | **студено / лошо** | studeno / losho |
+
+**Doğa / Yeryüzü Şekilleri:**
+
+| Türkçe | Bulgarca | Okunuş |
+|--------|----------|--------|
+| doğa | **природа** (dişil) | priroda |
+| dünya | **земя** (dişil) | zemya |
+| toprak | **почва** (dişil) | pochva |
+| kaya | **скала** (dişil) | skala |
+| taş | **камък** (eril) | kamık |
+| kum | **пясък** (eril) | pyasık |
 | dağ | **планина** (dişil) | planina |
-| nehir | **река** (dişil) | reka |
+| tepe | **хълм** (eril) | hılm |
+| vadi | **долина** (dişil) | dolina |
+| ova | **равнина** (dişil) | ravnina |
+| çöl | **пустиня** (dişil) | pustinya |
+| ada | **остров** (eril) | ostrov |
+| yarımada | **полуостров** (eril) | poluostrov |
+| koy | **залив** (eril) | zaliv |
+| plaj / kumsal | **плаж** (eril) | plaj |
+| deniz | **море** (nötr) | more |
+| okyanus | **океан** (eril) | okean |
+| göl | **езеро** (nötr) | ezero |
+| gölet | **езерце** (nötr) | ezertse |
+| nehir / ırmak | **река** (dişil) | reka |
+| dere | **поток** (eril) | potok |
+| şelale | **водопад** (eril) | vodopad |
+| kaynak | **извор** (eril) | izvor |
+| mağara | **пещера** (dişil) | peshtera |
 | orman | **гора** (dişil) | gora |
+| çimen | **трева** (dişil) | treva |
 | çiçek | **цвете** (nötr) | tsvete |
 | ağaç | **дърво** (nötr) | dırvo |
+| bitki | **растение** (nötr) | rastenie |
 | hayvan | **животно** (nötr) | jivotno |
-| köpek | **куче** (nötr) | kuçe |
-| kedi | **котка** (dişil) | kotka |
 
-> **Örnek:** Аз обичам морето. (Az obicham moreto.) — Ben denizi severim.  
-> **Örnek:** Днес времето е много хубаво. (Dnes vremeto e mnogo hubavo.) — Bugün hava çok güzel.  
-> **Örnek:** Аз имам куче и котка. (Az imam kuche i kotka.) — Bir köpeğim ve bir kedim var.
+> **Örnek:** Аз обичам морето и планината. (Az obicham moreto i planinata.) — Denizi ve dağları seviyorum.
+> **Örnek:** Днес времето е много хубаво и слънчево. (Dnes vremeto e mnogo hubavo i slınçevo.) — Bugün hava çok güzel ve güneşli.
+> **Örnek:** Нощното небе е пълно със звезди. (Noshtnoto nebe e pılno sıs zvezdi.) — Gece gökyüzü yıldızlarla dolu.
+> **Örnek:** Валят проливни дъждове и има гръмотевици. (Valyat prolivni dıjdove i ima grımotevitsi.) — Şiddetli yağmur yağıyor ve gök gürültüsü var.
+> **Örnek:** Езерото е спокойно и чисто. (Ezeroto e spokoyno i chisto.) — Göl sakin ve temiz.
+> **Örnek:** В планината въздухът е много свеж. (V planinata vazduhıt e mnogo svej.) — Dağda hava çok taze.
 
 ---
 
