@@ -5,21 +5,22 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 
 ## İçindekiler
 
-1. 🇧🇬 Dil / İnsan
-2. 🏠 Ev / Günlük Hayat
-3. 🍽️ Yemek / İçmek
-4. 🚶 Hareket / Fiiller
-5. ⏰ Zaman
-6. 🌤️ Hava & Doğa Olayları
-7. 🏙️ Şehir / Yer
-8. 🎨 Renkler / Sıfatlar
-9. 🔢 Sayılar
-10. ❓ Soru Kelimeleri
-11. 🧭 Edatlar / Bağlaçlar
-12. 🔬 Temel Bilim
+1. [🇧🇬 Dil / İnsan](#s1)
+2. [🏠 Ev / Günlük Hayat](#s2)
+3. [🍽️ Yemek / İçmek](#s3)
+4. [🚶 Hareket / Fiiller](#s4)
+5. [⏰ Zaman](#s5)
+6. [🌤️ Hava & Doğa Olayları](#s6)
+7. [🏙️ Şehir / Yer](#s7)
+8. [🎨 Renkler / Sıfatlar](#s8)
+9. [🔢 Sayılar](#s9)
+10. [❓ Soru Kelimeleri](#s10)
+11. [🧭 Edatlar / Bağlaçlar](#s11)
+12. [🔬 Temel Bilim](#s12)
 
 ---
 
+<a id="s1"></a>
 ## 1. 🇧🇬 Dil / İnsan
 
 | Türkçe | Bulgarca | Okunuş |
@@ -50,6 +51,7 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 
 ---
 
+<a id="s2"></a>
 ## 2. 🏠 Ev / Günlük Hayat
 
 | Türkçe | Bulgarca | Okunuş |
@@ -80,6 +82,7 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 
 ---
 
+<a id="s3"></a>
 ## 3. 🍽️ Yemek / İçmek
 
 | Türkçe | Bulgarca | Okunuş |
@@ -110,6 +113,7 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 
 ---
 
+<a id="s4"></a>
 ## 4. 🚶 Hareket / Fiiller
 
 | Türkçe | Bulgarca | Okunuş |
@@ -147,6 +151,7 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 
 ---
 
+<a id="s5"></a>
 ## 5. ⏰ Zaman
 
 | Türkçe | Bulgarca | Okunuş |
@@ -175,6 +180,7 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 
 ---
 
+<a id="s6"></a>
 ## 6. 🌤️ Hava & Doğa Olayları (Време и природни явления)
 
 | Türkçe | Bulgarca | Okunuş |
@@ -265,6 +271,7 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 
 ---
 
+<a id="s7"></a>
 ## 7. 🏙️ Şehir / Yer
 
 | Türkçe | Bulgarca | Okunuş |
@@ -290,6 +297,7 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 
 ---
 
+<a id="s8"></a>
 ## 8. 🎨 Renkler / Sıfatlar
 
 | Türkçe | Bulgarca (eril) | Bulgarca (dişil) | Bulgarca (nötr) | Okunuş |
@@ -317,6 +325,7 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 
 ---
 
+<a id="s9"></a>
 ## 9. 🔢 Sayılar
 
 | Sayı | Bulgarca | Okunuş |
@@ -340,6 +349,7 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 
 ---
 
+<a id="s10"></a>
 ## 10. ❓ Soru Kelimeleri
 
 | Türkçe | Bulgarca | Okunuş |
@@ -362,6 +372,7 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 
 ---
 
+<a id="s11"></a>
 ## 11. 🧭 Edatlar / Bağlaçlar
 
 | Türkçe | Bulgarca | Okunuş |
@@ -387,6 +398,7 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 
 ---
 
+<a id="s12"></a>
 ## 12. 🔬 Temel Bilim (Основни науки)
 
 ### Fizik (Физика - Fizika)
