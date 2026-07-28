@@ -290,6 +290,21 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 | vali | **областен управител** (eril) | oblasten upravitel |
 | itfaiye | **пожарна** (dişil) | pojarna |
 | itfaiyeci | **пожарникар** (eril) | pojarnikar |
+| milletvekili | **депутат** (eril) | deputat |
+| bakan | **министър** (eril) | ministar |
+| başbakan | **министър-председател** (eril) / **премиер** | ministar-predsedatel / premier |
+| cumhurbaşkanı | **президент** (eril) | prezident |
+| başkan | **председател** (eril) | predsedatel |
+| bakanlık | **министерство** (nötr) | ministerstvo |
+| hükümet | **правителство** (nötr) | pravitelstvo |
+| meclis | **парламент** (eril) / **събрание** (nötr) | parlament / sabranie |
+| yönetim | **управление** (nötr) | upravlenie |
+| seçim | **избор** (eril) | izbor |
+| oy | **глас** (eril) | glas |
+| oy vermek | **гласувам** | glasuvam |
+| aday | **кандидат** (eril) | kandidat |
+| siyaset | **политика** (dişil) | politika |
+| siyasi parti | **политическа партия** (dişil) | politicheska partiya |
 | nüfus | **население** (nötr) | naselenie |
 | nüfus sayımı | **преброяване** (nötr) | prebro-yavane |
 | merkez | **център** (eril) | tsentar |
