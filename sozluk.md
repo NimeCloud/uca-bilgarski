@@ -372,4 +372,151 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 
 ---
 
+## 12. 🔬 Temel Bilim (Основни науки)
+
+### Fizik (Физика - Fizika)
+
+| Türkçe | Bulgarca | Okunuş |
+|--------|----------|--------|
+| fizik | **физика** (dişil) | fizika |
+| madde | **вещество** (nötr) | veshtestvo |
+| atom | **атом** (eril) | atom |
+| molekül | **молекула** (dişil) | molekula |
+| element | **елемент** (eril) | element |
+| parçacık | **частица** (dişil) | chastitsa |
+| çekirdek | **ядро** (nötr) | yadro |
+| elektron | **електрон** (eril) | elektron |
+| proton | **протон** (eril) | proton |
+| nötron | **неутрон** (eril) | neytron |
+| katı | **твърдо вещество** (nötr) | tvırdo veshtestvo |
+| sıvı | **течност** (dişil) | technost |
+| gaz | **газ** (eril) | gaz |
+| erime | **топене** (nötr) | topene |
+| donma | **замръзване** (nötr) | zamrızvane |
+| buharlaşma | **изпарение** (nötr) | izparenie |
+| yoğunlaşma | **кондензация** (dişil) | kondenzatsiya |
+| süblimleşme | **сублимация** (dişil) | sublimatsiya |
+| kuvvet | **сила** (dişil) | sila |
+| enerji | **енергия** (dişil) | energiya |
+| hareket | **движение** (nötr) | dvijenie |
+| hız | **скорост** (dişil) | skorost |
+| ivme | **ускорение** (nötr) | uskorenie |
+| kütle | **маса** (dişil) | masa |
+| ağırlık | **тегло** (nötr) | teglo |
+| yoğunluk | **плътност** (dişil) | plıtnost |
+| basınç | **налягане** (nötr) | nalyagane |
+| sıcaklık | **температура** (dişil) | temperatura |
+| ısı | **топлина** (dişil) | toplina |
+| ışık | **светлина** (dişil) | svetlina |
+| ses | **звук** (eril) | zvuk |
+| dalga | **вълна** (dişil) | vılna |
+| frekans | **честота** (dişil) | chestita |
+| elektrik | **електричество** (nötr) | elektrichestvo |
+| manyetizma | **магнетизъм** (eril) | magnetizam |
+| yer çekimi | **гравитация** (dişil) | gravitatsiya |
+
+### Kimya (Химия - Himiya)
+
+| Türkçe | Bulgarca | Okunuş |
+|--------|----------|--------|
+| kimya | **химия** (dişil) | himiya |
+| kimyasal | **химически** | himicheski |
+| demir | **желязо** (nötr) | jellyazo |
+| altın | **злато** (nötr) | zlato |
+| gümüş | **сребро** (nötr) | srebro |
+| bakır | **мед** (dişil) | med |
+| çinko | **цинк** (eril) | tsink |
+| kurşun | **олово** (nötr) | olovo |
+| oksijen | **кислород** (eril) | kislorod |
+| hidrojen | **водород** (eril) | vodorod |
+| azot | **азот** (eril) | azot |
+| karbon | **въглерод** (eril) | vıglerod |
+| kalsiyum | **калций** (eril) | kaltsiy |
+| sodyum | **натрий** (eril) | natriy |
+| klor | **хлор** (eril) | hlor |
+| su | **вода** (dişil) | voda |
+| tuz | **сол** (dişil) | sol |
+| asit | **киселина** (dişil) | kiselina |
+| baz | **основа** (dişil) | osnova |
+| pH | **pH** | pe-ha |
+| periyodik tablo | **периодична таблица** (dişil) | periodichna tablitsa |
+| kimyasal reaksiyon | **химична реакция** (dişil) | himichna reaktsiya |
+| çözelti | **разтвор** (eril) | raztvor |
+| alaşım | **сплав** (dişil) | splav |
+
+### Biyoloji (Биология - Biologiya)
+
+| Türkçe | Bulgarca | Okunuş |
+|--------|----------|--------|
+| biyoloji | **биология** (dişil) | biologiya |
+| canlı | **организъм** (eril) | organizam |
+| hücre | **клетка** (dişil) | kletka |
+| doku | **тъкан** (dişil) | tıkan |
+| organ | **орган** (eril) | organ |
+| DNA | **ДНК** | de-ne-ka |
+| gen | **ген** (eril) | gen |
+| kromozom | **хромозома** (dişil) | hromozoma |
+| protein | **протеин** (eril) | protein |
+| enzim | **ензим** (eril) | enzim |
+| hormon | **хормон** (eril) | hormon |
+| bakteri | **бактерия** (dişil) | bakteriya |
+| virüs | **вирус** (eril) | virus |
+| aşı | **ваксина** (dişil) | vaktsina |
+| fotosentez | **фотосинтеза** (dişil) | fotosinteza |
+| solunum | **дишане** (nötr) | dishane |
+| sindirim | **храносмилане** (nötr) | hranosmilyane |
+| boşaltım | **отделяне** (nötr) | otdelyane |
+| dolaşım | **кръвообращение** (nötr) | krəvoobrashtenie |
+| üreme | **размножаване** (nötr) | razmozhavane |
+| iskelet | **скелет** (eril) | skelet |
+| kas | **мускул** (eril) | muskul |
+| sinir | **нерв** (eril) | nerv |
+| beyin | **мозък** (eril) | mozak |
+| kalp | **сърце** (nötr) | sarce |
+| kan | **кръв** (dişil) | krav |
+| damar | **кръвоносен съд** (eril) | krəvonosen sad |
+| akciğer | **бял дроб** (eril) | byal drob |
+| mide | **стомах** (eril) | stomah |
+| karaciğer | **черен дроб** (eril) | che-ren drob |
+| böbrek | **бъбрек** (eril) | bəbrek |
+| bağırsak | **черво** (nötr) | chervo |
+| deri | **кожа** (dişil) | koja |
+| göz | **око** (nötr) | oko |
+| kulak | **ухо** (nötr) | uho |
+| burun | **нос** (eril) | nos |
+| dil | **език** (eril) | ezik |
+| bağışıklık | **имунитет** (eril) | imunitet |
+
+### Matematik (Математика - Matematika)
+
+| Türkçe | Bulgarca | Okunuş |
+|--------|----------|--------|
+| matematik | **математика** (dişil) | matematika |
+| sayı | **число** (nötr) | chislo |
+| rakam | **цифра** (dişil) | tsifra |
+| toplama | **събиране** (nötr) | səbirane |
+| çıkarma | **изваждане** (nötr) | izvajdane |
+| çarpma | **умножение** (nötr) | umnojenie |
+| bölme | **деление** (nötr) | delenie |
+| kare | **квадрат** (eril) | kvadrat |
+| küp | **куб** (eril) | kub |
+| karekök | **квадратен корен** (eril) | kvadraten koren |
+| denklem | **уравнение** (nötr) | uravnenie |
+| oran | **отношение** (nötr) | otnoshenie |
+| yüzde | **процент** (eril) | protsent |
+| açı | **ъгъл** (eril) | agəl |
+| üçgen | **триъгълник** (eril) | triagəlnik |
+| kare (şekil) | **квадрат** (eril) | kvadrat |
+| daire | **кръг** (eril) | krag |
+| çember | **окръжност** (dişil) | okrəjnost |
+| çap | **диаметър** (eril) | diametar |
+
+> **Örnek:** Водата замръзва при нула градуса. (Vodata zamrəzva pri nula gradusa.) — Su sıfır derecede donar.
+> **Örnek:** Желязото е твърдо вещество. (Jelyazoto e tvardo vescestvo.) — Demir katı bir maddedir.
+> **Örnek:** Клетката е основната единица на живота. (Kletkata e osnovnata edinitsa na zhivota.) — Hücre yaşamın temel birimidir.
+> **Örnek:** Аз изучавам физика и химия в университета. (Az izuchavam fizika i himiya v universiteta.) — Üniversitede fizik ve kimya okuyorum.
+> **Örnek:** Сърцето е най-важният мускул в тялото. (Sartsə e nay-vazhniyat muskul v təloto.) — Kalp vücuttaki en önemli kastır.
+
+---
+
 *Bu sözlük zamanla genişletilebilir. Успех! (Başarılar!)*
