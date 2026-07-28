@@ -10,6 +10,7 @@ Bu dosya, Bulgarca öğrenme yolculuğumdaki notlarımı ve öğrendiklerimi iç
  - [Bölüm 2: Gramer Temelleri](#bolum-2-gramer-temelleri)
    - [2.1. Şahıs Zamirleri (Лични местоимения - lichni mestoimeniya)](#bolum-2-1-sahis-zamirleri)
    - [2.2. Temel Fiiller](#bolum-2-2-temel-fiiller)
+   - [2.3. Önemli Fiiller](#bolum-2-3-onemli-fiiller)
  - [Bölüm 3: Kelime Dağarcığı (Речник - reçnik)](#bolum-3-kelime-dagarcigi)
    - [3.1. Günler (Дни - dni)](#bolum-3-1-gunler)
    - [3.2. Aylar (Месеци - mesetsi)](#bolum-3-2-aylar)
@@ -137,6 +138,35 @@ Bulgarca, Kiril alfabesini kullanır. İşte harfler, okunuşları ve Türkçe'd
 | Те имат  | Onların var |
 
 *Örnek: Аз имам кола. (Az imam kola.) - Benim bir arabam var.*
+
+<a id="bolum-2-3-onemli-fiiller"></a>
+### 2.3. Önemli Fiiller (Важни глаголи - vajni glagoli)
+
+| Türkçe      | Bulgarca             | Okunuşu (Yaklaşık) |
+|-------------|----------------------|--------------------|
+| koşmak      | **бягам**            | byagam             |
+| uyumak      | **спя**              | spya               |
+| kalkmak     | **ставам**           | stavam             |
+| yatmak      | **лягам**            | lyagam             |
+| çalışmak    | **работя**           | rabotya            |
+| dinlenmek   | **почивам**          | pochivam           |
+| gezmek      | **разхождам се**     | razhozhdam se      |
+| okumak      | **чета**             | cheta              |
+| ağlamak     | **плача**            | placha             |
+| gülmek      | **смея се**          | smeya se           |
+| hissetmek   | **чувствам**         | chuvstvam          |
+| yemek       | **ям**               | yam                |
+| içmek       | **пия**              | piya               |
+| konuşmak    | **говоря**           | govorya            |
+| yazmak      | **пиша**             | pisha              |
+| düşünmek    | **мисля**            | mislya             |
+| bilmek      | **зная**             | znaya              |
+| istemek     | **искам**            | iskam              |
+| sevmek      | **обичам**           | obicham            |
+| bakmak      | **гледам**           | gledam             |
+| duymak      | **чувам**            | chuvam             |
+| vermek      | **давам**            | davam              |
+| almak       | **вземам**           | vzemam             |
 
 ---
 
