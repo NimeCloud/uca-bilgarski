@@ -276,24 +276,57 @@ Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul ör
 
 | Türkçe | Bulgarca | Okunuş |
 |--------|----------|--------|
-| şehir | **град** (eril) | grad |
+| şehir / kent | **град** (eril) | grad |
+| köy | **село** (nötr) | selo |
+| kasaba | **градче** (nötr) | gradche |
+| büyükşehir | **метрополия** (dişil) | metropoliya |
+| başkent | **столица** (dişil) | stolitsa |
+| semt / mahalle | **квартал** (eril) | kvartal |
+| bölge | **област / регион** (eril) | oblast / region |
+| il | **област** (dişil) | oblast |
+| ilçe | **район** (eril) | rayon |
+| belediye | **община** (dişil) | obshtina |
+| belediye başkanı | **кмет** (eril) | kmet |
+| vali | **областен управител** (eril) | oblasten upravitel |
+| itfaiye | **пожарна** (dişil) | pojarna |
+| itfaiyeci | **пожарникар** (eril) | pojarnikar |
+| nüfus | **население** (nötr) | naselenie |
+| nüfus sayımı | **преброяване** (nötr) | prebro-yavane |
+| merkez | **център** (eril) | tsentar |
 | sokak | **улица** (dişil) | ulitsa |
+| cadde | **булевард** (eril) | bulvard |
 | meydan | **площад** (eril) | ploshtad |
-| dükkan | **магазин** (eril) | magazin |
+| dükkan / mağaza | **магазин** (eril) | magazin |
+| alışveriş merkezi | **мол** (eril) / **търговски център** | mol / targovski tsentar |
 | hastane | **болница** (dişil) | bolnitsa |
 | okul | **училище** (nötr) | uchilishte |
+| üniversite | **университет** (eril) | universitet |
 | banka | **банка** (dişil) | banka |
 | postane | **поща** (dişil) | poshta |
+| karakol / polis | **полиция** (dişil) | politsiya |
 | otel | **хотел** (eril) | hotel |
 | restoran | **ресторант** (eril) | restorant |
 | park | **парк** (eril) | park |
 | müze | **музей** (eril) | muzey |
 | eczane | **аптека** (dişil) | apteka |
-| pazar | **пазар** (eril) | pazar |
+| pazar (yeri) | **пазар** (eril) | pazar |
+| kasaba | **пазар** (eril) — aynı kelime | |
+| kütüphane | **библиотека** (dişil) | biblioteka |
+| tiyatro | **театър** (eril) | teatır |
+| sinema | **кино** (nötr) | kino |
+| stadyum | **стадион** (eril) | stadion |
+| havaalanı | **летище** (nötr) | letishte |
+| tren istasyonu | **гара** (dişil) | gara |
+| otogar | **автогара** (dişil) | avtogara |
+| liman | **пристанище** (nötr) | pristanishte |
+| kilise | **църква** (dişil) | tsarkva |
+| cami | **джамия** (dişil) | dzhamiya |
 
-> **Örnek:** Аз живея в центъра на града. (Az jiveya v tsentıra na grada.) — Şehir merkezinde yaşıyorum.  
-> **Örnek:** Аз ходя на пазар в събота. (Az hodya na pazar v sıbota.) — Cumartesi pazara giderim.  
+> **Örnek:** Аз живея в центъра на града. (Az jiveya v tsentıra na grada.) — Şehir merkezinde yaşıyorum.
+> **Örnek:** Аз ходя на пазар в събота. (Az hodya na pazar v sıbota.) — Cumartesi pazara giderim.
 > **Çoğul:** В София има много паркове. (V Sofiya ima mnogo parkove.) — Sofya'da çok park var.
+> **Örnek:** Кметът на нашия град е много млад. (Kmetıt na nashiya grad e mnogo mlad.) — Şehrimizin belediye başkanı çok genç.
+> **Örnek:** Населенето на София е около 1.2 милиона. (Naselenieto na Sofiya e okolo 1.2 miliona.) — Sofya'nın nüfusu yaklaşık 1.2 milyon.
 
 ---
 
