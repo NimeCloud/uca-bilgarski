@@ -1,7 +1,22 @@
 # 📖 Bulgarca Sözlük — Günlük Hayatta En Çok Kullanılan Kelimeler
 
-Her kelime için **Bulgarca (okunuş)** ve ben (**аз**) ağzından örnek cümle.  
+Her kelime için **Bulgarca (okunuş)** ve ben (**аз**) ağzından örnek cümle.
 Cinsiyet (мъжки/жени/средни — eril/dişil/nötr) ve çoğul örnekleri de serpiştirilmiştir.
+
+## İçindekiler
+
+1. 🇧🇬 Dil / İnsan
+2. 🏠 Ev / Günlük Hayat
+3. 🍽️ Yemek / İçmek
+4. 🚶 Hareket / Fiiller
+5. ⏰ Zaman
+6. 🌤️ Hava & Doğa Olayları
+7. 🏙️ Şehir / Yer
+8. 🎨 Renkler / Sıfatlar
+9. 🔢 Sayılar
+10. ❓ Soru Kelimeleri
+11. 🧭 Edatlar / Bağlaçlar
+12. 🔬 Temel Bilim
 
 ---
 
