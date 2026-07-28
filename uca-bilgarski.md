@@ -4,35 +4,38 @@ Bu dosya, Bulgarca öğrenme yolculuğumdaki notlarımı ve öğrendiklerimi iç
 
 ## İçindekiler
 
-- [Bölüm 1: Temel Bilgiler](#bölüm-1-temel-bilgiler)
-  - [1.1. Kiril Alfabesi (Кирилица - kirilitsa)](#11-kiril-alfabesi-кирилица)
-  - [1.2. Temel Selamlaşma ve İfadeler](#12-temel-selamlaşma-ve-ifadeler)
-- [Bölüm 2: Gramer Temelleri](#bölüm-2-gramer-temelleri)
-  - [2.1. Şahıs Zamirleri (Лични местоимения - lichni mestoimeniya)](#21-şahıs-zamirleri-лични-местоимения)
-  - [2.2. Temel Fiiller](#22-temel-fiiller)
-- [Bölüm 3: Kelime Dağarcığı](#bölüm-3-kelime-dağarcığı)
-  - [3.1. Günler (Дни - dni)](#31-günler-дни)
-  - [3.2. Aylar (Месеци - mesetsi)](#32-aylar-месеци)
-  - [3.3. Mevsimler (Сезони - sezoni)](#33-mevsimler-сезони)
-  - [3.4. Zaman Kavramları (Времеви понятия - vremevi ponyatiya)](#34-zaman-kavramları-времеви-понятия)
-  - [3.5. Renkler (Цветове - tsvetove)](#35-renkler-цветове)
-  - [3.6. Hayvanlar (Животни - jivotni)](#36-hayvanlar-животни)
-  - [3.7. Eşyalar (Предмети - predmeti)](#37-eşyalar-предмети)
-  - [3.8. Binalar (Сгради - sgradi)](#38-binalar-сгради)
-  - [3.9. Taşıtlar (Превозни средства - prevozni sredstva)](#39-taşıtlar-превозни-средства)
-  - [3.2. Aile (Семейство - semeystvo)](#32-aile-семейство)
-  - [3.3. Yiyecekler (Храни - hrani)](#33-yiyecekler-храни)
-- [Bölüm 4: Sayılar ve Sayma Sayıları (Числа и Броене - chisla i broene)](#bölüm-4-sayılar-ve-sayma-sayıları-числа-и-броене)
-  - [4.1. Temel Sayılar (Основни числа - osnovni chisla)](#41-temel-sayılar-основни-числа)
-    - [4.1.1. 11'den 19'a Kadar Sayılar](#411-11den-19a-kadar-sayılar)
-    - [4.1.2. Onluk Sayılar (20, 30, ...)](#412-onluk-sayılar-20-30-)
-    - [4.1.3. Yüzlük Sayılar (100, 200, ...)](#413-yüzlük-sayılar-100-200-)
-    - [4.1.4. Binlik Sayılar (1000, 2000, ...)](#414-binlik-sayılar-1000-2000-)
-  - [4.2. Sayı Kombinasyonları ve Örnekler](#42-sayı-kombinasyonları-ve-örnekler)
+ - [Bölüm 1: Temel Bilgiler](#bolum-1-temel-bilgiler)
+   - [1.1. Kiril Alfabesi (Кирилица - kirilitsa)](#bolum-1-1-kiril-alfabesi)
+   - [1.2. Temel Selamlaşma ve İfadeler](#bolum-1-2-temel-selamlasma-ve-ifadeler)
+ - [Bölüm 2: Gramer Temelleri](#bolum-2-gramer-temelleri)
+   - [2.1. Şahıs Zamirleri (Лични местоимения - lichni mestoimeniya)](#bolum-2-1-sahis-zamirleri)
+   - [2.2. Temel Fiiller](#bolum-2-2-temel-fiiller)
+ - [Bölüm 3: Kelime Dağarcığı (Речник - reçnik)](#bolum-3-kelime-dagarcigi)
+   - [3.1. Günler (Дни - dni)](#bolum-3-1-gunler)
+   - [3.2. Aylar (Месеци - mesetsi)](#bolum-3-2-aylar)
+   - [3.3. Mevsimler (Сезони - sezoni)](#bolum-3-3-mevsimler)
+   - [3.4. Zaman Kavramları (Времеви понятия - vremevi ponyatiya)](#bolum-3-4-zaman-kavramlari)
+   - [3.5. Renkler (Цветове - tsvetove)](#bolum-3-5-renkler)
+   - [3.6. Hayvanlar (Животни - jivotni)](#bolum-3-6-hayvanlar)
+   - [3.7. Eşyalar (Предмети - predmeti)](#bolum-3-7-esyalar)
+   - [3.8. Binalar (Сгради - sgradi)](#bolum-3-8-binalar)
+   - [3.9. Taşıtlar (Превозни средства - prevozni sredstva)](#bolum-3-9-tasitlar)
+   - [3.10. Yönler, Yerler ve Coğrafya (Посоки, Места и География - posoki, mesta i geografiya)](#bolum-3-10-yonler-yerler-ve-cografya)
+   - [3.11. Aile (Семейство - semeystvo)](#bolum-3-11-aile)
+   - [3.12. Yiyecekler (Храни - hrani)](#bolum-3-12-yiyecekler)
+ - [Bölüm 4: Sayılar ve Sayma Sayıları (Числа и Броене - chisla i broene)](#bolum-4-sayilar-ve-sayma-sayilari)
+   - [4.1. Temel Sayılar (Основни числа - osnovni chisla)](#bolum-4-1-temel-sayilar)
+     - [4.1.1. 11'den 19'a Kadar Sayılar](#bolum-4-1-1-11den-19a-kadar-sayilar)
+     - [4.1.2. Onluk Sayılar (20, 30, ...)](#bolum-4-1-2-onluk-sayilar)
+     - [4.1.3. Yüzlük Sayılar (100, 200, ...)](#bolum-4-1-3-yuzluk-sayilar)
+     - [4.1.4. Binlik Sayılar (1000, 2000, ...)](#bolum-4-1-4-binlik-sayilar)
+   - [4.2. Sayı Kombinasyonları ve Örnekler](#bolum-4-2-sayi-kombinasyonlari-ve-ornekler)
 
 ## Bölüm 1: Temel Bilgiler
+{#bolum-1-temel-bilgiler}
 
 ### 1.1. Kiril Alfabesi (Кирилица - kirilitsa)
+{#bolum-1-1-kiril-alfabesi}
 
 Bulgarca, Kiril alfabesini kullanır. İşte harfler, okunuşları ve Türkçe'deki yaklaşık karşılıkları:
 
@@ -70,6 +73,7 @@ Bulgarca, Kiril alfabesini kullanır. İşte harfler, okunuşları ve Türkçe'd
 | Я я  | я (ya)   | ya (yalan)         | **я**бълка (yabılka) | elma |
 
 ### 1.2. Temel Selamlaşma ve İfadeler
+{#bolum-1-2-temel-selamlasma-ve-ifadeler}
 
 - **Здравей** (Zdravey) - Merhaba (samimi)
 - **Здравейте** (Zdraveyte) - Merhaba (resmi veya çoğul)
@@ -89,8 +93,10 @@ Bulgarca, Kiril alfabesini kullanır. İşte harfler, okunuşları ve Türkçe'd
 ---
 
 ## Bölüm 2: Gramer Temelleri
+{#bolum-2-gramer-temelleri}
 
 ### 2.1. Şahıs Zamirleri (Лични местоимения - lichni mestoimeniya)
+{#bolum-2-1-sahis-zamirleri}
 
 | Bulgarca | Türkçe |
 |----------|--------|
@@ -104,6 +110,7 @@ Bulgarca, Kiril alfabesini kullanır. İşte harfler, okunuşları ve Türkçe'd
 | Те (Te)  | Onlar  |
 
 ### 2.2. Temel Fiiller
+{#bolum-2-2-temel-fiiller}
 
 #### "Olmak" Fiili - **съм** (sım)
 
@@ -134,12 +141,14 @@ Bulgarca, Kiril alfabesini kullanır. İşte harfler, okunuşları ve Türkçe'd
 ---
 
 ## Bölüm 3: Kelime Dağarcığı (Речник - reçnik)
+{#bolum-3-kelime-dagarcigi}
 
 Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 
 *Not: Sayılar için lütfen Bölüm 4'e bakınız.*
 
 ### 3.1. Günler (Дни - dni)
+{#bolum-3-1-gunler}
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -151,7 +160,8 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **събота**     | sıbota             | Cumartesi    | **Събота** е ден за почивка. (Sıbota e den za poçivka.) - Cumartesi dinlenme günüdür. |
 | **неделя**     | nedelya            | Pazar        | **В неделя** отиваме на пикник. (V nedelya otivame na piknik.) - Pazar günü pikniğe gidiyoruz. |
 
-### 3.2. Aylar (Месеци - mesetsi)
+### 3.2. Aylar (Месеци - mesetsi) {#bolum-3-2-aylar}
+
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -168,7 +178,8 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **ноември**    | noemvri            | Kasım        | **Ноември** е студен месец. (Noemvri e studen mesets.) - Kasım soğuk bir aydır. |
 | **декември**   | dekemvri           | Aralık       | **Декември** е месецът на Коледа. (Dekemvri e mesetsıt na Koleda.) - Aralık Noel ayıdır. |
 
-### 3.3. Mevsimler (Сезони - sezoni)
+### 3.3. Mevsimler (Сезони - sezoni) {#bolum-3-3-mevsimler}
+
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -178,6 +189,7 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **зима**       | zima               | Kış          | **През зимата** вали сняг. (Prez zimata vali snyag.) - Kışın kar yağar. |
 
 ### 3.4. Zaman Kavramları (Времеви понятия - vremevi ponyatiya)
+{#bolum-3-4-zaman-kavramlari}
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -191,7 +203,8 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **вечер**      | veçer              | Akşam        | **Вечер** гледам телевизия. (Veçer gledam televiziya.) - Akşam televizyon izlerim. |
 | **нощ**        | noşt               | Gece         | **През нощта** спя. (Prez noştta spya.) - Gece uyurum. |
 
-### 3.5. Renkler (Цветове - tsvetove)
+### 3.5. Renkler (Цветове - tsvetove) {#bolum-3-5-renkler}
+
 
 | Bulgarca (Български, Bılgarski) | Okunuşu (Yaklaşık) | Türkçe (Турски, Turski) | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -207,7 +220,8 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **розов**      | rozov              | Pembe        | **Розово** цвете (Rozovo tsvete) - Pembe çiçek |
 | **лилав**      | lilav              | Mor          | **Лилаво** цвете (Lilavo tsvete) - Mor çiçek |
 
-### 3.6. Hayvanlar (Животни - jivotni)
+### 3.6. Hayvanlar (Животни - jivotni) {#bolum-3-6-hayvanlar}
+
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -222,7 +236,8 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **мишка**      | mişka              | Fare         | **Мишката** е малка. (Mişkata e malka.) - Fare küçüktür. |
 | **лъв**        | lıv                | Aslan        | **Лъвът** е цар на животните. (Lıvıt e tsar na jivotnite.) - Aslan hayvanların kralıdır. |
 
-### 3.7. Eşyalar (Предмети - predmeti)
+### 3.7. Eşyalar (Предмети - predmeti) {#bolum-3-7-esyalar}
+
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -237,7 +252,8 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **врата**      | vrata              | Kapı         | Отвори **вратата**. (Otvorı vratata.) - Kapıyı aç. |
 | **прозорец**   | prozorêts          | Pencere      | Затвори **прозореца**. (Zatvorı prozoretsa.) - Pencereyi kapat. |
 
-### 3.8. Binalar (Сгради - sgradi)
+### 3.8. Binalar (Сгради - sgradi) {#bolum-3-8-binalar}
+
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -252,7 +268,8 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **полиция**    | politsiya          | Polis (karakol) | Обадих се на **полицията**. (Obadih se na politsiyata.) - Polisi aradım. |
 | **пожарна**    | pojarna            | İtfaiye      | **Пожарната** пристигна бързо. (Pojarnata pristigna bırzo.) - İtfaiye hızlıca geldi. |
 
-### 3.9. Taşıtlar (Превозни средства - prevozni sredstva)
+### 3.9. Taşıtlar (Превозни средства - prevozni sredstva) {#bolum-3-9-tasitlar}
+
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -264,7 +281,8 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **велосипед**  | velosiped          | Bisiklet     | Карам **велосипед**. (Karam velosiped.) - Bisiklet sürüyorum. |
 | **мотор**      | motor              | Motosiklet   | Той има бърз **мотор**. (Toy ima bırz motor.) - Onun hızlı bir motosikleti var. |
 
-### 3.10. Yönler, Yerler ve Coğrafya (Посоки, Места и География - posoki, mesta i geografiya)
+### 3.10. Yönler, Yerler ve Coğrafya (Посоки, Места и География - posoki, mesta i geografiya) {#bolum-3-10-yonler-yerler-ve-cografya}
+
 
 | Bulgarca       | Okunuşu (Yaklaşık) | Türkçe       | Örnek Kullanım                               |
 |----------------|--------------------|--------------|----------------------------------------------|
@@ -283,7 +301,7 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 | **континент**  | kontinent          | Kıta         | Европа е **континент**. (Evropa e kontinent.) - Avrupa bir kıtadır. |
 | **адрес**      | adres              | Adres        | Какъв е твоят **адрес**? (Kakıv e tvoyat adres?) - Adresin nedir? |
 
-### 3.11. Aile (Семейство - semeystvo)
+### 3.11. Aile (Семейство - semeystvo) {#bolum-3-11-aile}
 
 - **майка** (mayka) - anne
 - **баща** (başta) - baba
@@ -292,7 +310,7 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 - **син** (sin) - oğul
 - **дъщеря** (dışterya) - kız evlat
 
-### 3.12. Yiyecekler (Храни - hrani)
+### 3.12. Yiyecekler (Храни - hrani) {#bolum-3-12-yiyecekler}
 
 - **хляб** (hlyab) - ekmek
 - **вода** (voda) - su
@@ -302,11 +320,12 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 
 ---
 
-## Bölüm 4: Sayılar ve Sayma Sayıları (Числа и Броене - chisla i broene)
+## Bölüm 4: Sayılar ve Sayma Sayıları (Числа и Броене - chisla i broene) {#bolum-4-sayilar-ve-sayma-sayilari}
 
 Bulgarcada sayılar ve sayma kuralları oldukça düzenlidir.
 
 ### 4.1. Temel Sayılar (Основни числа - osnovni chisla)
+{#bolum-4-1-temel-sayilar}
 
 İşte Bulgarca'daki temel sayılar ve okunuşları:
 
@@ -324,7 +343,8 @@ Bulgarcada sayılar ve sayma kuralları oldukça düzenlidir.
 | 9    | **девет**  | devet              | **девет** години (devet godini) - dokuz yıl  |
 | 10   | **десет**  | deset              | **десет** минути (deset minuti) - on dakika |
 
-#### 4.1.1. 11'den 19'a Kadar Sayılar
+#### 4.1.1. 11'den 19'a Kadar Sayılar {#bolum-4-1-1-11den-19a-kadar-sayilar}
+
 
 Bu sayılar, birler basamağına "-надесет" (nadeset) eklenerek oluşturulur.
 
@@ -340,7 +360,8 @@ Bu sayılar, birler basamağına "-надесет" (nadeset) eklenerek oluşturu
 | 18   | **осемнадесет** | osemnadeset       | **осемнадесет** часа (osemnadeset çasa) - on sekiz saat |
 | 19   | **деветнадесет** | devetnadeset      | **деветнадесет** момичета (devetnadeset momiçeta) - on dokuz kız |
 
-#### 4.1.2. Onluk Sayılar (20, 30, ...)
+#### 4.1.2. Onluk Sayılar (20, 30, ...) {#bolum-4-1-2-onluk-sayilar}
+
 
 | Sayı | Bulgarca      | Okunuşu (Yaklaşık) | Örnek Kullanım                               |
 |------|---------------|--------------------|----------------------------------------------|
@@ -353,7 +374,8 @@ Bu sayılar, birler basamağına "-надесет" (nadeset) eklenerek oluşturu
 | 80   | **осемдесет** | osemdeset          | **осемдесет** страници (osemdeset stranitsi) - seksen sayfa |
 | 90   | **деветдесет** | devetdeset        | **деветдесет** години (devetdeset godini) - doksan yıl |
 
-#### 4.1.3. Yüzlük Sayılar (100, 200, ...)
+#### 4.1.3. Yüzlük Sayılar (100, 200, ...) {#bolum-4-1-3-yuzluk-sayilar}
+
 
 | Sayı | Bulgarca      | Okunuşu (Yaklaşık) | Örnek Kullanım                               |
 |------|---------------|--------------------|----------------------------------------------|
@@ -368,6 +390,7 @@ Bu sayılar, birler basamağına "-надесет" (nadeset) eklenerek oluşturu
 | 900  | **деветстотин** | devetstotin      | **деветстотин** къщи (devetstotin kışti) - dokuz yüz ev |
 
 #### 4.1.4. Binlik Sayılar (1000, 2000, ...)
+{#bolum-4-1-4-binlik-sayilar}
 
 | Sayı | Bulgarca      | Okunuşu (Yaklaşık) | Örnek Kullanım                               |
 |------|---------------|--------------------|----------------------------------------------|
@@ -377,7 +400,8 @@ Bu sayılar, birler basamağına "-надесет" (nadeset) eklenerek oluşturu
 | 100000| **сто хиляди** | sto hilyadi      | **сто хиляди** книги (sto hilyadi knigi) - yüz bin kitap |
 | 1000000| **един милион** | edin milion     | **един милион** души (edin milion duşi) - bir milyon kişi |
 
-### 4.2. Sayı Kombinasyonları ve Örnekler
+### 4.2. Sayı Kombinasyonları ve Örnekler {#bolum-4-2-sayi-kombinasyonlari-ve-ornekler}
+
 
 Bulgarcada sayılar birleştirilirken genellikle büyükten küçüğe doğru sıralanır ve "и" (i - ve) bağlacı kullanılır.
 
