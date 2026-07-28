@@ -31,6 +31,7 @@ Bu dosya, Bulgarca öğrenme yolculuğumdaki notlarımı ve öğrendiklerimi iç
      - [4.1.3. Yüzlük Sayılar (100, 200, ...)](#bolum-4-1-3-yuzluk-sayilar)
      - [4.1.4. Binlik Sayılar (1000, 2000, ...)](#bolum-4-1-4-binlik-sayilar)
    - [4.2. Sayı Kombinasyonları ve Örnekler](#bolum-4-2-sayi-kombinasyonlari-ve-ornekler)
+   - [4.3. Sıralama Sayıları (Редни числителни - redni chislitelni)](#bolum-4-3-siralama-sayilari)
 
 <a id="bolum-1-temel-bilgiler"></a>
 ## Bölüm 1: Temel Bilgiler
@@ -469,6 +470,62 @@ Bulgarcada sayılar birleştirilirken genellikle büyükten küçüğe doğru s�
 *   **Имаме седем dni до края.** (Imame sedem dni do kraya.) - Sona yedi günümüz var.
 *   **Той живее на улица номер деветнадесет.** (Toy jivee na ulitsa nomer devetnadeset.) - O on dokuz numaralı sokakta yaşıyor.
 *   **България има население от около седем милиона души.** (Bılgariya ima naselenie ot okolo sedem miliona duşi.) - Bulgaristan'ın yaklaşık yedi milyon nüfusu var.
+
+<a id="bolum-4-3-siralama-sayilari"></a>
+### 4.3. Sıralama Sayıları (Редни числителни - redni chislitelni)
+
+Bulgarcada sıralama sayıları, temel sayıların sonuna **-и** (-i) veya **-ен** (-en) eklenerek oluşturulur. Cinsiyete göre değişirler: eril **-и**, dişil **-а**, nötr **-о**. Burada eril (temel) formlar verilmiştir.
+
+| Sıra | Bulgarca          | Okunuşu (Yaklaşık)  |
+|------|-------------------|---------------------|
+| 1.   | **първи**         | pırvi               |
+| 2.   | **втори**         | vtori               |
+| 3.   | **трети**         | treti               |
+| 4.   | **четвърти**      | çetvırti            |
+| 5.   | **пети**          | peti                |
+| 6.   | **шести**         | şesti               |
+| 7.   | **седми**         | sedmi               |
+| 8.   | **осми**          | osmi                |
+| 9.   | **девети**        | deveti              |
+| 10.  | **десети**        | deseti              |
+| 11.  | **единадесети**   | edinadeseti         |
+| 12.  | **дванадесети**   | dvanadeseti         |
+| 13.  | **тринадесети**   | trinadeseti         |
+| 14.  | **четиринадесети**| çetirinadeseti      |
+| 15.  | **петнадесети**   | petnadeseti         |
+| 16.  | **шестнадесети**  | şesnadeseti         |
+| 17.  | **седемнадесети** | sedemnadeseti       |
+| 18.  | **осемнадесети**  | osemnadeseti        |
+| 19.  | **деветнадесети** | devetnadeseti       |
+| 20.  | **двадесети**     | dvadeseti           |
+| 30.  | **тридесети**     | trideseti           |
+| 40.  | **четиридесети**  | çetirideseti        |
+| 50.  | **петдесети**     | petdeseti           |
+| 100. | **стоти**         | stoti               |
+| 1000.| **хиляден**       | hilyaden            |
+
+#### Birleşik Sıralama Sayıları
+
+| Sayı | Bulgarca                     | Okunuşu (Yaklaşık)          |
+|------|------------------------------|-----------------------------|
+| 13.  | **тринадесети**              | trinadeseti                 |
+| 21.  | **двадесет и първи**         | dvadeset i pırvi            |
+| 32.  | **тридесет и втори**         | trideset i vtori            |
+| 54.  | **петдесет и четвърти**      | petdeset i çetvırti         |
+| 99.  | **деветдесет и девети**      | devetdeset i deveti         |
+| 100. | **стоти**                    | stoti                       |
+| 101. | **сто и първи**              | sto i pırvi                 |
+| 213. | **двеста и тринадесети**     | dvesta i trinadeseti        |
+| 505. | **петстотин и пети**         | petstotin i peti            |
+| 1000.| **хиляден**                 | hilyaden                    |
+| 2024.| **две хиляди двадесет и четвърти** | dve hilyadi dvadeset i çetvırti |
+
+**Örnek Cümleler:**
+
+*   **Той е първият ученик.** (Toy e pırviyat uçenik.) - O birinci öğrenci.
+*   **Аз съм на втория етаж.** (Az sım na vtoriya etaj.) - Ben ikinci kattayım.
+*   **Това е третият път.** (Tova e tretiyat pıt.) - Bu üçüncü yol.
+*   **Тя спечели петдесет и първо място.** (Tya speçeli petdeset i pırvo myasto.) - Elli birinci sırayı kazandı.
 
 ---
 
