@@ -38,6 +38,7 @@ Her cümle: **Bulgarca** — okunuşu — Türkçesi
 29. [Alışveriş & Pazarlık](#29-alisveris--pazarlik)
 30. [Dini & Kültürel Terimler](#30-dini--kulturel-terimler)
 31. [Trafik & Sürüş](#31-trafik--surus)
+32. [Bulgaristan — Genel Kültür](#32-bulgaristan--genel-kultur)
 
 ---
 
@@ -3651,6 +3652,246 @@ Ne, tova e zabraneno.
 **Ако пиеш, не карай!** — İçiyorsan, kullanma!
 Ako piesh, ne karay!
 
+<a id="32-bulgaristan--genel-kultur"></a>
+## 32. Bulgaristan — Genel Kültür (България — обща култура)
+
+### 🌍 Coğrafya (География)
+
+**България се намира в Югоизточна Европа.** — Bulgaristan Güneydoğu Avrupa'da bulunur.
+Bılgariya se namira v Yugoiztoçna Evropa.
+
+**Граничи с Румъния на север.** — Kuzeyde Romanya ile sınır komşusudur.
+Granichi s Rumıniya na sever.
+
+**Граничи с Турция на юг.** — Güneyde Türkiye ile sınır komşusudur.
+Granichi s Turtsiya na yug.
+
+**Граничи с Гърция на юг.** — Güneyde Yunanistan ile sınır komşusudur.
+Granichi s Gırtsiya na yug.
+
+**Граничи със Сърбия на запад.** — Batıda Sırbistan ile sınır komşusudur.
+Granichi sıs Sırbiya na zapad.
+
+**Граничи със Северна Македония на югозапад.** — Güneybatıda Kuzey Makedonya ile sınır komşusudur.
+Granichi sıs Severna Makedoniya na yugozapad.
+
+**България има общо пет държавни граници.** — Bulgaristan'ın toplam beş devlet sınırı vardır.
+Bılgariya ima obshto pet dırjavni granitsi.
+
+**България има излаз на Черно море.** — Bulgaristan'ın Karadeniz'e kıyısı vardır.
+Bılgariya ima izlaz na Cherno more.
+
+**Черноморската брегова линия е около 378 километра.** — Karadeniz kıyı şeridi yaklaşık 378 kilometredir.
+Chernomorskata bregova liniya e okolo 378 kilometra.
+
+**Най-дългата река в България е Дунав.** — Bulgaristan'ın en uzun nehri Tuna'dır.
+Nay-dılgata reka v Bılgariya e Dunav.
+
+**Дунав е гранична река с Румъния.** — Tuna, Romanya ile sınır nehridir.
+Dunav e granichna reka s Rumıniya.
+
+**Други важни реки са Марица, Искър и Струма.** — Diğer önemli nehirler Meriç, İskar ve Struma'dır.
+Drugi vajni reki sa Maritsa, Iskar i Struma.
+
+**Най-високият връх в България е Мусала (2925 м).** — Bulgaristan'ın en yüksek zirvesi Musala'dır (2925 m).
+Nay-visokiyat vrah v Bılgariya e Musala.
+
+**България е известна с красивите си планини.** — Bulgaristan güzel dağlarıyla ünlüdür.
+Bılgariya e izvestna s krasivite si planini.
+
+**Рила, Пирин и Стара планина са основните планински вериги.** — Rila, Pirin ve Balkan Dağları ana dağ silsileleridir.
+Rila, Pirin i Stara planina sa osnovnite planinski verigi.
+
+**Столицата на България е София.** — Bulgaristan'ın başkenti Sofya'dır.
+Stolitsata na Bılgariya e Sofiya.
+
+**Други големи градове са Пловдив, Варна, Бургас и Русе.** — Diğer büyük şehirler Filibe, Varna, Burgaz ve Rusçuk'tur.
+Drugi golemi gradove sa Plovdiv, Varna, Burgas i Ruse.
+
+**Пловдив е един от най-старите градове в Европа.** — Filibe, Avrupa'nın en eski şehirlerinden biridir.
+Plovdiv e edin ot nay-starite gradove v Evropa.
+
+**България е с обща площ от 111 000 квадратни километра.** — Bulgaristan'ın toplam yüzölçümü 111.000 km²'dir.
+Bılgariya e s obshta plosht ot 111 000 kvadratni kilometra.
+
+**Населението на България е около 7 милиона души.** — Bulgaristan'ın nüfusu yaklaşık 7 milyon kişidir.
+Naselenieto na Bılgariya e okolo 7 miliona dushi.
+
+**Официалната валута е българският лев (BGN).** — Resmî para birimi Bulgar levasıdır (BGN).
+Ofitsialnata valuta e bılgarskiyat lev.
+
+**Българският лев е фиксиран към еврото.** — Bulgar levası euroya sabitlenmiştir.
+Bılgarskiyat lev e fiksiran kam evroto.
+
+### 🏛️ Tarih (История)
+
+**България е основана през 681 година.** — Bulgaristan 681 yılında kurulmuştur.
+Bılgariya e osnovana prez 681 godina.
+
+**Първата българска държава е основана от хан Аспарух.** — İlk Bulgar devleti Han Asparuh tarafından kuruldu.
+Parvata bılgarska dırjava e osnovana от han Asparuh.
+
+**България приема християнството през 864 година.** — Bulgaristan 864 yılında Hristiyanlığı kabul etti.
+Bılgariya priema hristiyanstvoto prez 864 godina.
+
+**Цар Симеон Велики управлява през златния век на България.** — Çar Simeon Büyük, Bulgaristan'ın altın çağında hüküm sürdü.
+Tsar Simeon Veliki upravlyava prez zlatniya vek na Bılgariya.
+
+**България е под османско владичество близо 500 години.** — Bulgaristan yaklaşık 500 yıl Osmanlı egemenliği altındaydı.
+Bılgariya e pod osmansko vladičestvo blizo 500 godini.
+
+**Освобождението на България е през 1878 година.** — Bulgaristan'ın kurtuluşu 1878 yılındadır.
+Osvobojdenieto na Bılgariya e prez 1878 godina.
+
+**Третата българска държава е провъзгласена през 1878 г.** — Üçüncü Bulgar devleti 1878'de ilan edildi.
+Tretata bılgarska dırjava e provızglasena prez 1878 g.
+
+**България става независимо царство през 1908 година.** — Bulgaristan 1908'de bağımsız bir krallık oldu.
+Bılgariya stava nezavisimo tsarstvo prez 1908 godina.
+
+**След Втората световна война България попада в съветската сфера на влияние.** — II. Dünya Savaşı'ndan sonra Bulgaristan Sovyet etki alanına girdi.
+Sled Vtorata svetovna voyna Bılgariya popada v sаvetskata sfera na vliyanie.
+
+**На 10 ноември 1989 г. започват демократичните промени.** — 10 Kasım 1989'da demokratik değişimler başladı.
+Na 10 noemvri 1989 g. zapochvat demokratichnite promeni.
+
+### 🇪🇺 AB & Uluslararası İlişkiler (ЕС и международни отношения)
+
+**България става член на НАТО през 2004 година.** — Bulgaristan 2004'te NATO üyesi oldu.
+Bılgariya stava chlen na NATO prez 2004 godina.
+
+**България става член на Европейския съюз на 1 януари 2007 година.** — Bulgaristan, 1 Ocak 2007'de Avrupa Birliği üyesi oldu.
+Bılgariya stava chlen na Evropeyskiya sayuz na 1 yanuari 2007 godina.
+
+**България не е член на еврозоната, но планира да въведе еврото.** — Bulgaristan euro bölgesinde değildir ancak euroya geçmeyi planlamaktadır.
+Bılgariya ne e chlen na evrozonata, no planira da vаvede evroto.
+
+**България е член на ООН от 1955 година.** — Bulgaristan 1955'ten beri Birleşmiş Milletler üyesidir.
+Bılgariya e chlen na OON ot 1955 godina.
+
+**България е член на Световната търговска организация (СТО).** — Bulgaristan Dünya Ticaret Örgütü (WTO) üyesidir.
+Bılgariya e chlen na Prestolnata tърговска organizatsiya.
+
+### 🎭 Kültür & Gelenek (Култура и традиции)
+
+**Официалният език в България е българският.** — Bulgaristan'ın resmî dili Bulgarcadır.
+Ofitsialniyat ezik v Bılgariya e bılgarskiyat.
+
+**Българската азбука е кирилицата.** — Bulgar alfabesi Kiril alfabesidir.
+Bılgarskata azbuka e kirilitsata.
+
+**Кирилицата е създадена от братята Кирил и Методий.** — Kiril alfabesi, Kiril ve Metodiy kardeşler tarafından oluşturulmuştur.
+Kirilitsata e sazdadena ot bratyata Kiril i Metodiy.
+
+**Националният празник на България е 3 март.** — Bulgaristan'ın ulusal bayramı 3 Mart'tır.
+Natsionalniyat praznik na Bılgariya e 3 mart.
+
+**3 март е денят на освобождението на България.** — 3 Mart, Bulgaristan'ın kurtuluş günüdür.
+3 mart e denyat na osvobojdenieto na Bılgariya.
+
+**Коледа се празнува на 25 декември.** — Noel, 25 Aralık'ta kutlanır.
+Koleda se praznuva na 25 dekemvri.
+
+**Великден е най-големият християнски празник.** — Paskalya en büyük Hristiyan bayramıdır.
+Velikden e nay-golemiyat hristiyanski praznik.
+
+**На Великден се боядисват яйца.** — Paskalya'da yumurta boyanır.
+Na Velikden se boyadisvat yaytsa.
+
+**Обичаят "Баба Март" е на 1 март.** — "Baba Mart" geleneği 1 Mart'tadır.
+Obichayat "Baba Mart" e na 1 mart.
+
+**България е известна с киселото мляко и сиренето.** — Bulgaristan yoğurt ve peyniriyle ünlüdür.
+Bılgariya e izvestna s kiselo mlyako i sirenеto.
+
+**Шопската салата е традиционно българско ястие.** — Şopska salatası geleneksel bir Bulgar yemeğidir.
+Shopskata salata e traditsionno bılgarsko yastie.
+
+**Ракията е традиционната напитка в България.** — Rakı Bulgaristan'ın geleneksel içkisidir.
+Rakiyata e traditsionnata napitka v Bılgariya.
+
+**България е известна с розовото масло.** — Bulgaristan gül yağıyla ünlüdür.
+Bılgariya e izvestna s rozovoto maslo.
+
+**България е един от най-големите производители на мед в Европа.** — Bulgaristan Avrupa'nın en büyük bal üreticilerinden biridir.
+Bılgariya e edin ot nay-golemite proizvoditeli na med v Evropa.
+
+**България има 9 обекта в списъка на ЮНЕСКО.** — Bulgaristan'ın UNESCO listesinde 9 alanı vardır.
+Bılgariya ima 9 obekta v spisıka na UNESCO.
+
+**Рилският манастир е един от тях.** — Rila Manastırı bunlardan biridir.
+Rilskiyat manastir e edin ot tyah.
+
+**Несебър е стар град, който също е в списъка на ЮНЕСКО.** — Nessebar da UNESCO listesinde olan eski bir şehirdir.
+Nesebar e star grad, koyto sıshto e v spisıka na UNESCO.
+
+### 🏛️ Yönetim & Siyaset (Управление и политика)
+
+**България е парламентарна република.** — Bulgaristan parlamenter bir cumhuriyettir.
+Bılgariya e parlamentarna republika.
+
+**Държавният глава е президентът.** — Devlet başkanı cumhurbaşkanıdır.
+Dırjavniyat glava e prezidentıt.
+
+**Президентът се избира на всеки 5 години.** — Cumhurbaşkanı her 5 yılda bir seçilir.
+Prezidentıt se izbira na vseki 5 godini.
+
+**Министър-председателят е ръководител на правителството.** — Başbakan hükümetin başıdır.
+Ministar-predsedatelyat e rаkovoditel na pravitelstvoto.
+
+**Народното събрание е еднокамарен парламент.** — Ulusal Meclis tek kamaralı bir parlamentodur.
+Narodnoto sаbranie e ednokamaren parlament.
+
+**Народното събрание има 240 депутати.** — Ulusal Meclis'te 240 milletvekili vardır.
+Narodnoto sаbranie ima 240 deputati.
+
+**Изборите се провеждат на всеки 4 години.** — Seçimler her 4 yılda bir yapılır.
+Izborite se provezhdat na vseki 4 godini.
+
+**България е разделена на 28 области.** — Bulgaristan 28 bölgeye ayrılmıştır.
+Bılgariya e razdelena na 28 oblasti.
+
+**Българският флаг е трикольор: бяло, зелено, червено.** — Bulgar bayrağı üç renklidir: beyaz, yeşil, kırmızı.
+Bılgarskiyat flag e trikolyor: byalo, zeleno, cherveno.
+
+**Гербът на България е лъв.** — Bulgaristan'ın arması aslandır.
+Gerbıt na Bılgariya e lıv.
+
+**Националният химн на България е "Мила Родино".** — Bulgaristan'ın milli marşı "Mila Rodino"dur.
+Natsionalniyat himn na Bılgariya e "Mila Rodino".
+
+### 💼 Ekonomi (Икономика)
+
+**Основните индустрии са енергетика, минно дело и туризъм.** — Ana endüstriler enerji, madencilik ve turizmdir.
+Osnovnite industrii sa energetika, minno delo i turizam.
+
+**Туризмът е важен сектор за българската икономика.** — Turizm, Bulgar ekonomisi için önemli bir sektördür.
+Turizmıt e vajen sektor za bılgarskata ikonomika.
+
+**България е популярна дестинация за летен и зимен туризъм.** — Bulgaristan yaz ve kış turizmi için popüler bir destinasyondur.
+Bılgariya e populyarna destinatsiya za leten i zimen turizam.
+
+**Основните туристически градове са Варна, Бургас, София и Пловдив.** — Ana turistik şehirler Varna, Burgaz, Sofya ve Filibe'dir.
+Osnovnite turisticheski gradove sa Varna, Burgas, Sofiya i Plovdiv.
+
+**България изнася масло от рози, вино и цимент.** — Bulgaristan gül yağı, şarap ve çimento ihraç eder.
+Bılgariya iznasya maslo ot rozi, vino i tsiment.
+
+**Вносителите включват машини, горива и химикали.** — İthalatı makineler, yakıtlar ve kimyasallar içerir.
+Vnositelite vklyuchvat mashini, goriva i himikali.
+
+**Средната заплата в България е по-ниска от средната за ЕС.** — Bulgaristan'daki ortalama maaş, AB ortalamasından düşüktür.
+Srednata zaplata v Bılgariya e po-niska ot srednata za ES.
+
+**Данък общ доход в България е 10% (плосък данък).** — Bulgaristan'da gelir vergisi %10'dur (düz vergi).
+Danak obsht dohod v Bılgariya e 10% (plosak danak).
+
+**България използва български лев (BGN) като национална валута.** — Bulgaristan ulusal para birimi olarak Bulgar levasını (BGN) kullanır.
+Bılgariya izpolzva bılgarski lev kato natsionalna valuta.
+
+**Едно евро е равно на около 1.96 лева.** — Bir euro yaklaşık 1.96 leva eder.
+Edno evro e ravno na okolo 1.96 leva.
+
 ---
 
-*📌 Toplam: 31 kategoride 1050+ cümle. Her cümle Bulgarca + okunuş + Türkçe olarak verilmiştir. Başlangıç seviyesinden ileri seviyeye kadar herkes за uygundur. Успех! (Başarılar!)*
+*📌 Toplam: 32 kategoride 1100+ cümle. Her cümle Bulgarca + okunuş + Türkçe olarak verilmiştir. Успех! (Başarılar!)*
