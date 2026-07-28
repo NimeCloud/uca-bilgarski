@@ -5,10 +5,10 @@ Bu dosya, Bulgarca öğrenme yolculuğumdaki notlarımı ve öğrendiklerimi iç
 ## İçindekiler
 
 - [Bölüm 1: Temel Bilgiler](#bölüm-1-temel-bilgiler)
-  - [1.1. Kiril Alfabesi (Кирилица)](#11-kiril-alfabesi-кирилица)
+  - [1.1. Kiril Alfabesi (Кирилица - kirilitsa)](#11-kiril-alfabesi-кирилица)
   - [1.2. Temel Selamlaşma ve İfadeler](#12-temel-selamlaşma-ve-ifadeler)
 - [Bölüm 2: Gramer Temelleri](#bölüm-2-gramer-temelleri)
-  - [2.1. Şahıs Zamirleri (Лични местоимения)](#21-şahıs-zamirleri-лични-местоимения)
+  - [2.1. Şahıs Zamirleri (Лични местоимения - lichni mestoimeniya)](#21-şahıs-zamirleri-лични-местоимения)
   - [2.2. Temel Fiiller](#22-temel-fiiller)
 - [Bölüm 3: Kelime Dağarcığı](#bölüm-3-kelime-dağarcığı)
   - [3.1. Günler (Дни - dni)](#31-günler-дни)
@@ -22,8 +22,8 @@ Bu dosya, Bulgarca öğrenme yolculuğumdaki notlarımı ve öğrendiklerimi iç
   - [3.9. Taşıtlar (Превозни средства - prevozni sredstva)](#39-taşıtlar-превозни-средства)
   - [3.2. Aile (Семейство - semeystvo)](#32-aile-семейство)
   - [3.3. Yiyecekler (Храни - hrani)](#33-yiyecekler-храни)
-- [Bölüm 4: Sayılar ve Sayma Sayıları (Числа и Броене)](#bölüm-4-sayılar-ve-sayma-sayıları-числа-и-броене)
-  - [4.1. Temel Sayılar (Основни числа)](#41-temel-sayılar-основни-числа)
+- [Bölüm 4: Sayılar ve Sayma Sayıları (Числа и Броене - chisla i broene)](#bölüm-4-sayılar-ve-sayma-sayıları-числа-и-броене)
+  - [4.1. Temel Sayılar (Основни числа - osnovni chisla)](#41-temel-sayılar-основни-числа)
     - [4.1.1. 11'den 19'a Kadar Sayılar](#411-11den-19a-kadar-sayılar)
     - [4.1.2. Onluk Sayılar (20, 30, ...)](#412-onluk-sayılar-20-30-)
     - [4.1.3. Yüzlük Sayılar (100, 200, ...)](#413-yüzlük-sayılar-100-200-)
@@ -32,7 +32,7 @@ Bu dosya, Bulgarca öğrenme yolculuğumdaki notlarımı ve öğrendiklerimi iç
 
 ## Bölüm 1: Temel Bilgiler
 
-### 1.1. Kiril Alfabesi (Кирилица)
+### 1.1. Kiril Alfabesi (Кирилица - kirilitsa)
 
 Bulgarca, Kiril alfabesini kullanır. İşte harfler, okunuşları ve Türkçe'deki yaklaşık karşılıkları:
 
@@ -90,7 +90,7 @@ Bulgarca, Kiril alfabesini kullanır. İşte harfler, okunuşları ve Türkçe'd
 
 ## Bölüm 2: Gramer Temelleri
 
-### 2.1. Şahıs Zamirleri (Лични местоимения)
+### 2.1. Şahıs Zamirleri (Лични местоимения - lichni mestoimeniya)
 
 | Bulgarca | Türkçe |
 |----------|--------|
@@ -302,11 +302,11 @@ Bu bölümü öğrendiğiniz yeni kelimelerle doldurabilirsiniz.
 
 ---
 
-## Bölüm 4: Sayılar ve Sayma Sayıları (Числа и Броене)
+## Bölüm 4: Sayılar ve Sayma Sayıları (Числа и Броене - chisla i broene)
 
 Bulgarcada sayılar ve sayma kuralları oldukça düzenlidir.
 
-### 4.1. Temel Sayılar (Основни числа)
+### 4.1. Temel Sayılar (Основни числа - osnovni chisla)
 
 İşte Bulgarca'daki temel sayılar ve okunuşları:
 
